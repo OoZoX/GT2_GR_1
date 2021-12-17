@@ -12,3 +12,7 @@ Alexis - LevelDesign intérieur grotte
 Alexis - Placement des ennemis, items, checkpoint, respawnzone
 Alexis - Éclairage général + skylight & directionnal light & lave + Exponential Height Fog
 
+Quentin - Shader bouclier - M_Shield
+Quentin - Shader balle bomb - Balle_boum
+
+
